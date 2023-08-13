@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-helpred69/helpred69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+helpred69/helpred69 is a ✨ special ✨ repository because i
+ts `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
